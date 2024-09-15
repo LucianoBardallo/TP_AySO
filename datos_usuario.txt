@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: AMD FX-8320E Eight-Core Processor
